@@ -61,7 +61,7 @@ The Evolution Timeline shows the different stages of Persona evolution:
 * **Ascended Form:** Increased on-chain interactions reveal new abilities.
 * **Transcendent Form:** The ultimate evolution, having mastered the Base blockchain.
 
-![Evolution Timeline](src/components/Screenshots/Evolutiontimmeline.png)
+![Evolution Timeline](src/components/Screenshots/Evolutiontimeline.png)
 
 ## How it Works
 
